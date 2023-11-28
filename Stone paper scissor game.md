@@ -1,4 +1,4 @@
-#PASSWORD GENERATOR CODE 
+#PASSWORD GENERATOR IN PYTHON
 
 import string
 import getpass
